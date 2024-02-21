@@ -1,21 +1,14 @@
 
-
-using pos_t                 = int;
-constexpr pos_t kInvalidPos = -1;
-
-/// @brief Simple POD struct for 2D position
-struct pos2_t
-{
-    pos2_t operator+(const pos2_t& other) const
-    {
-        return {v + other.v, h + other.h};
+using Pos_t = int;
+/// @brief 간단한 2D Position 구조체
+struct Pos2 {
+    auto operator==(const Pos2& other) const -> bool {
+        return other.v == v && other.h == h;
     }
-
-    bool operator==(const pos2_t& other) const
-    {
-        return v == other.v && h == other.h;
+    auto operator!=(const Pos2& other) const -> bool {
+        return !operator==(other);
     }
-
-    pos_t v{kInvalidPos};
-    pos_t h{kInvalidPos};
+    static constexpr Pos_t INVALID_POS = -1;
+    Pos_t v {INVALID_POS};
+    Pos_t h {INVALID_POS};
 };
