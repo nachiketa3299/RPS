@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        { // Main Debug Setting
+            "name": "[RZN_PS] Build & Debug",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceRoot}\\bin\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "E:\\msys64\\ucrt64\\bin\\gdb.exe",
+            "setupCommands": [
+                { // STL Container
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "[RZN_PS] Active File Build",
+        }
+    ]
+}

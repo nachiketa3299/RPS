@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "[RZN_PS_DEBUG]",
+            "includePath": [
+                "${workspaceFolder}\\**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+            ],
+            "windowsSdkVersion": "10.0.22621.0",
+            "compilerPath": "E:\\msys64\\ucrt64\\bin\\g++.exe",
+            "cStandard": "c23",
+            "intelliSenseMode": "${default}",
+            "cppStandard": "c++23"
+        }
+    ],
+    "version": 4
+}
