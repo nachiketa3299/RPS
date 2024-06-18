@@ -489,7 +489,6 @@
       state: True
       time: 10
       note: "너무 쉬워서 뭐라 할말이 없음"
-
 - title: 공 넣기
   id: 10810
   site: 백준
@@ -514,3 +513,60 @@
       time: null
       note: |
         "`iter_swap`과 `swap`에 대해 알았음"
+- title: 과제 안 내신 분..?
+  id: 5597
+  site: 백준
+  rank: B3
+  tags: Array
+  review_note: "none"
+  records:
+    - date: 2024-06-18
+      state: True
+      time: 17
+      note: 초기화 방법 ranges
+- title: 바구니 뒤집기
+  id: 10811
+  site: 백준
+  tags: Array, Brute-Force
+  review_note: "none"
+  records:
+    - date: 2024-06-18
+      state: True
+      time: 11
+      note: std::reverse
+- title: 행렬 덧셈
+  id: 2738
+  site: 백준
+  tags: 2D Array
+  records:
+    - date: 2024-06-18
+      state: True
+      time: 10
+      note: move constructor
+- title: 최댓값
+  id: 2566
+  site: 백준
+  tags: 2D Array
+  records:
+    - date: 2024-06-18
+      state: True
+      time: 10
+      note: 1차원 배열을 마치 2차원 배열 처럼
+- title: 세로읽기
+  id: 10798
+  site: 백준
+  tags: string
+  records:
+    - date: 2024-06-18
+      state: True
+      time: 10
+      note: none
+- title: 색종이
+  id: 2563
+  site: 백준
+  tags: 2D Array
+  records:
+    - date: 2024-06-18
+      state: True
+      time: 29
+      note: 무식하게 풀기
