@@ -527,6 +527,7 @@
 - title: 바구니 뒤집기
   id: 10811
   site: 백준
+  rank: B2
   tags: Array, Brute-Force
   review_note: "none"
   records:
@@ -537,6 +538,7 @@
 - title: 행렬 덧셈
   id: 2738
   site: 백준
+  rank: B3
   tags: 2D Array
   records:
     - date: 2024-06-18
@@ -545,6 +547,7 @@
       note: move constructor
 - title: 최댓값
   id: 2566
+  rank: B3
   site: 백준
   tags: 2D Array
   records:
@@ -554,6 +557,7 @@
       note: 1차원 배열을 마치 2차원 배열 처럼
 - title: 세로읽기
   id: 10798
+  rank: B1
   site: 백준
   tags: string
   records:
@@ -563,6 +567,7 @@
       note: none
 - title: 색종이
   id: 2563
+  rank: S5
   site: 백준
   tags: 2D Array
   records:
@@ -572,6 +577,7 @@
       note: 무식하게 풀기
 - title: 알고리즘 수업 - 피보나치 수 1
   id: 24416
+  rank: B1
   site: 백준
   tags: Dynamic Programming
   records:
@@ -582,6 +588,7 @@
 - title: 신나는 함수 실행
   id: 9184
   site: 백준
+  rank: S2
   tags: Dynamic Programming
   records:
     - date: 2024-06-19
@@ -595,6 +602,7 @@
 - title: 꼬마 정민
   id: 11382
   site: 백준
+  rank: B5
   tags: 입출력
   records:
     - date: 2024-06-20
@@ -603,6 +611,7 @@
 - title: 다이얼
   id: 5622
   site: 백준
+  rank: B2
   tags: 수학
   records:
     - date: 2024-06-20
