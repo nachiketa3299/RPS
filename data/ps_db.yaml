@@ -1,6 +1,6 @@
-- title: �� �迭�� ��
+- title: 두 배열의 합
   id: 2143
-  site: ����
+  site: 백준
   rank: G3
   tags:
     - Two Pointer
@@ -9,9 +9,9 @@
     - date: 2023-12-21
       state: False
       time: 60
-- title: �似Ǫ�� ���� 0
+- title: 요세푸스 문제 0
   id: 11866
-  site: ����
+  site: 백준
   rank: S5
   tags:
     - Circular Queue
@@ -19,9 +19,9 @@
     - date: 2024-01-11
       state: True
       time: 45
-- title: ��ǥ �����ϱ�
+- title: 좌표 정렬하기
   id: 11650
-  site: ����
+  site: 백준
   rank: S5
   tags:
     - Stable Sort
@@ -29,9 +29,9 @@
     - date: 2024-01-11
       state: True
       time: 9
-- title: ��
+- title: 덱
   id: 10866
-  site: ����
+  site: 백준
   rank: S4
   tags:
     - Deque
@@ -39,9 +39,9 @@
     - date: 2024-01-11
       state: True
       time: 90
-- title: Ư���� �ִ� ���
+- title: 특정한 최단 경로
   id: 1504
-  site: ����
+  site: 백준
   rank: G4
   tags:
     - Shortest Path
@@ -51,10 +51,10 @@
     - date: 2024-01-18
       state: True
       time: 72
-      note: �� ���� �湮 ������ ��� ���ٴ°� ���߿� ����
-- title: �ִ� ���
+      note: 두 정점 방문 순서가 상관 없다는걸 나중에 읽음
+- title: 최단 경로
   id: 1753
-  site: ����
+  site: 백준
   rank: G4
   tags:
     - Shortest Path
@@ -71,10 +71,10 @@
     - date: 2024-01-16
       state: True
       time: 81
-      note: Dijkstra �켱���� ť�� �ִ� ���� Edge�� �ƴ�!!
-- title: ��ŷ
+      note: Dijkstra 우선순위 큐에 넣는 것은 Edge가 아님!!
+- title: 해킹
   id: 10282
-  site: ����
+  site: 백준
   rank: G4
   tags:
     - Single-source Shortest Path
@@ -86,15 +86,15 @@
     - date: 2024-01-16
       state: True
       time: 61
-      note: ���ͽ�Ʈ�� �ѹ� �����ؾ� �� �� ����
+      note: 다익스트라 한번 정리해야 할 것 같음
     - date: 2024-01-17
       state: True
       time: 39
-      note: ���ͽ�Ʈ�� �ƴµ� �𸣰ڴ� �ܰ��� ����
-- title: ����Ʈ�� �̵�
+      note: 다익스트라 아는데 모르겠는 단계임 지금
+- title: 나이트의 이동
   id: 7562
   rank: S1
-  site: ����
+  site: 백준
   tags:
     - BFS
     - Shortest Path
@@ -113,10 +113,10 @@
     - date: 2024-01-05
       state: True
       time: 55
-- title: �ٸ� �����
+- title: 다리 만들기
   id: 2146
   rank: G3
-  site: ����
+  site: 백준
   review_note: required
   tags:
     - BFS
@@ -131,10 +131,10 @@
     - date: 2024-01-09
       state: True
       time: 100
-- title: ��Ʈ�ι̳�
+- title: 테트로미노
   id: 14500
   rank: G4
-  site: ����
+  site: 백준
   tags:
     - Implementation
   records:
@@ -144,30 +144,30 @@
     - date: 2023-12-21
       state: Fasle
       time: 120
-- title: �κ� ������ ��
+- title: 부분 수열의 합
   id: 1182
   rank: S2
-  site: ����
+  site: 백준
   tags:
     - Two Pointer
   records:
     - date: 2023-12-21
       state: False
       time: 60
-- title: ������ �� 2
+- title: 수들의 합 2
   id: 2003
   rank: S4
-  site: ����
+  site: 백준
   tags:
     - Two Pointer
   records:
     - date: 2023-12-21
       state: True
       time: 65
-- title: �Ҽ��� ������
+- title: 소수의 연속합
   id: 1644
   rank: G3
-  site: ����
+  site: 백준
   tags:
     - Two Pointer
     - Seive of Eratosthenes
@@ -175,10 +175,10 @@
     - date: 2023-12-21
       state: True
       time: 65
-- title: �丶��
+- title: 토마토
   id: 7576
   rank: G5
-  site: ����
+  site: 백준
   review_note: "uploading"
   tags:
     - Connected Components
@@ -194,10 +194,10 @@
     - date: 2024-01-05
       state: True
       time: 64
-- title: ��� ���� ���� �ְ� ������?
+- title: 녹색 옷을 입은 애가 젤다지?
   id: 4485
   rank: G4
-  site: ����
+  site: 백준
   review_note: "none"
   tags:
     - Shortest Path
@@ -206,11 +206,11 @@
     - date: 2024-01-17
       state: True
       time: 46
-      note: Pos2_t�� ���� �ణ ����� ����. Ŭ���� �� ����°� �� ���ѵ�!
-- title: �ΰ� ����
+      note: Pos2_t에 대해 약간 응용된 버전. 클래스 안 만드는게 더 편한듯!
+- title: 인간 대포
   id: 10473
   rank: G2
-  site: ����
+  site: 백준
   review_note: "required"
   tags:
     - Shortest Path
@@ -219,11 +219,11 @@
     - date: 2024-01-17
       state: True
       time: 85
-      note: ��ƴ�! �׷��� �����ϴ°� �ٽ��̾���. �̰� �ϳ��� ���ͽ�Ʈ�� ���� ����
-- title: ī��
+      note: 어렵다! 그래프 생성하는게 핵심이었음. 이거 하나로 다익스트라 정리 가능
+- title: 카드
   id: 11652
   rank: S4
-  site: ����
+  site: 백준
   tags:
     - Map
     - Sorting
@@ -232,11 +232,11 @@
     - date: 2024-01-17
       state: True
       time: 30
-      note: std::map ���°� �ʹ� ���ͼ��ؼ� ���������� Ǯ��.
-- title: �� �μ��� �̵��ϱ�
+      note: std::map 쓰는게 너무 안익숙해서 연습문제로 풀다.
+- title: 벽 부수고 이동하기
   id: 2206
   rank: G3
-  site: ����
+  site: 백준
   review_note: required
   tags:
     - State BFS
@@ -247,22 +247,22 @@
     - date: 2024-01-18
       state: False
       time: 169
-      note: visited ó���� ���ؼ�... �μ��� �̵��ϴ��� �ƴ����� ���� ���̻� �򰥷��� ����.
+      note: visited 처리에 대해서... 부수고 이동하는지 아닌지에 대해 더이상 헷갈려서 못함.
     - date: 2024-01-19
       state: False
       time: 120
       note: |
-        �μ� ���迡���� Visited ó���� �ϸ� �� �Ǵ°ǰ�? ��湮�� ��ΰ� ������ ���� �ִ� �ݷʰ� �־?
+        부순 세계에서는 Visited 처리를 하면 안 되는건가? 재방문시 경로가 존재할 수도 있는 반례가 있어서?
     - date: 2024-01-24
       state: True
       time: 86
       note: |
-        - �μ� ���迡���� Visited ó���� �ؾ� ��.
-        - State BFS ������ Ǯ�� ���ϱ� �� �Ӹ������� �𵨸��� �Ǵ� �� ����.
-- title: ���� �ǰ��� ������
+        - 부순 세계에서도 Visited 처리를 해야 함.
+        - State BFS 문제를 풀어 보니까 좀 머릿속으로 모델링이 되는 것 같음.
+- title: 말이 되고픈 원숭이
   id: 1600
   rank: G3
-  site: ����
+  site: 백준
   review_note: required
   tags:
     - State BFS
@@ -270,15 +270,15 @@
     - date: 2024-01-18
       state: True
       time: 84
-      note: �� ��ƴٰ� ��������?
+      note: 왜 어렵다고 생각했지?
     - date: 2024-01-22
       state: True
       time: 60
-      note: ��� ���� �ð��� �ʹ� �����ɸ�
-- title: ����
+      note: 쉬운데 구현 시간이 너무 오래걸림
+- title: 퍼즐
   id: 1525
   rank: G2
-  site: ����
+  site: 백준
   review_note: required
   tags:
     - State BFS
@@ -286,30 +286,30 @@
     - date: 2024-01-19
       state: False
       time: 60
-      note: �̰͵� State BFS ��... string���� �ٲ�� �Ѵٰ� ��. State �� �����Ѵٴ°�?
+      note: 이것도 State BFS 임... string으로 바꿔야 한다고 함. State 를 저장한다는것?
     - date: 2024-01-22
       state: False
       time: 100
-      note: �޸� �ʰ�! map �� ���� �Ϳ� ���ؼ� �ٽ� ������ ����. State �����ؼ� �� ä�� �� ���� ����
+      note: 메모리 초과! map 을 쓰는 것에 대해서 다시 생각해 봐얌. State 관련해서 모른 채로 막 쓴것 같음
     - date: 2024-01-22
       state: True
       time: 50
-      note: ����! �׳� �ܼ��� map�� �̿��ϱ⸸ �ϸ� �Ǿ���!!
+      note: 성공! 그냥 단순히 map을 이용하기만 하면 되었음!!
 - title: Sorting Game
   id: SORTGAME
-  rank: ��
-  site: �˰�����
+  rank: 중
+  site: 알고스팟
   tags:
     - BFS
   records:
     - date: 2024-01-19
       time: 50
       state: False
-      note: ������ �� ��!
-- title: �˰����� ���� - �ʺ� �켱 Ž�� 1
+      note: 제출이 안 됨!
+- title: 알고리즘 수업 - 너비 우선 탐색 1
   id: 24444
   rank: S2
-  site: ����
+  site: 백준
   tags:
     - BFS
     - Basic
@@ -317,11 +317,11 @@
     - date: 2024-01-20
       time: 42
       state: True
-      note: ��¥ �ٽ� Ǯ������ �ʰ� ������ ����
-- title: �˰����� ���� - �ʺ� �켱 Ž�� 2
+      note: 진짜 다신 풀고싶지 않게 지루한 문제
+- title: 알고리즘 수업 - 너비 우선 탐색 2
   id: 24445
   rank: S2
-  site: ����
+  site: 백준
   tags:
     - BFS
     - Basic
@@ -329,11 +329,11 @@
     - date: 2024-01-20
       time: 1
       state: True
-      note: �̰� ���� ����
-- title: �˰����� ���� - ���� �켱 Ž�� 2
+      note: 이거 완전 날먹
+- title: 알고리즘 수업 - 깊이 우선 탐색 2
   id: 24480
   rank: S2
-  site: ����
+  site: 백준
   tags:
     - DFS
     - Basic
@@ -341,11 +341,11 @@
     - date: 2024-01-20
       time: 60
       state: False
-      note: �̰� �� ���� ������ DFS �ٽ� ������
-- title: ���ĺ�
+      note: 이거 왜 실패 ㅋㅋㅋ DFS 다시 봐야함
+- title: 알파벳
   id: 1987
   rank: G4
-  site: ����
+  site: 백준
   tags:
     - BFS
   records:
@@ -353,12 +353,12 @@
       time: 70
       state: False
       note: |
-        - BFS�� �� �˾Ҵµ�, DFS ����. � Edge Case ������ BFS �� ����� �� �Ǵ��� �𸣰ڴ�.
-        - �� �������� DFS�� Ȱ�뵵�� ���ù��� �� �� ����.
-- title: �ζ�
+        - BFS인 줄 알았는데, DFS 였다. 어떤 Edge Case 때문에 BFS 가 통과가 안 되는지 모르겠다.
+        - 내 생각보다 DFS의 활용도가 무궁무진 한 것 같다.
+- title: 로또
   id: 6603
   rank: S2
-  site: ����
+  site: 백준
   review_note: required
   tags:
     - Combination
@@ -370,14 +370,14 @@
       time: 33
       state: False
       note: |
-        - `next_permutation` ����� �ͼ������� �ʴ�. Ư�� ������(Lexiographically) �������� �̶�� ���� ���� ������ �� �𸣰ڴ�.
-        - `bitset`�� ����� ������ �ߴµ�, ���ø� Ŭ������ �������� ���� ���� ����.
-          - `dynamic_bitset` ������ ���� ������ �ϰ� ã�ƺ�������, ��ǥ�� ���̺귯��(`boost`) ���� �����ߴ�....
-        - ������ �ð� ���⵵ ��� ���ϰ� �׳� �������� �����ھҴµ� �� �� ������. �и� DFS & BFS ���������� �ôµ� DFS & BFS �δ� ��� Ǯ �� ���� �ȿ´�.
-        - ã�ƺ��� ������ �����ϴµ� DFS ����� �� ���� ����̴�. �̰� ������ �ʿ��� �� ����.
-- title: ���� - ����
+        - `next_permutation` 사용이 익숙하지가 않다. 특히 서순상(Lexiographically) 오름차순 이라는 것이 무슨 말인지 잘 모르겠다.
+        - `bitset`을 사용해 보려고 했는데, 템플릿 클래스라서 동적으로 만들 수가 없다.
+          - `dynamic_bitset` 같은게 있지 않을까 하고 찾아보았지만, 비표준 라이브러리(`boost`) 내에 존재했다....
+        - 솔직히 시간 복잡도 계산 안하고 그냥 조합으로 때려박았는데 될 줄 몰랐다. 분명 DFS & BFS 문제집에서 봤는데 DFS & BFS 로는 어떻게 풀 지 감이 안온다.
+        - 찾아보니 조합을 구현하는데 DFS 비슷한 걸 쓰는 모양이다. 이거 정리가 필요한 것 같다.
+- title: 전쟁 - 전투
   id: 1303
-  site: ����
+  site: 백준
   rank: S1
   review_note: none
   tags:
@@ -388,10 +388,10 @@
       time: 33
       state: True
       note: |
-        - ��¥ Basic �� BFS �����̴�.
-- title: ���Ĺ� ���ϱ�
+        - 진짜 Basic 한 BFS 문제이다.
+- title: 음식물 피하기
   id: 1743
-  site: ����
+  site: 백준
   rank: S1
   tags: null
   review_note: null
@@ -400,14 +400,14 @@
       state: False
       time: 60
       note: |
-        - BFS Visited �� ��ġ�� �׻� �Ű��� �� �޸� ȿ������ �˰����� ��������
-        - �ٵ�, �׷��� �ߴµ��� �� ��!
-        - DFS�� �ٲ�ôµ��� �� ��
-        - �ϴ� �˰Ե� ��: BFS �� DFS ���� ������ ���� ������ Ȯ���� ���� (������ �׷��� ��翡 ���� �ٸ���.)
-        - C++17 ���� inline static const �� Ŭ���� ���ο� ����ƽ ����� �ʱ�ȭ �� �� �ִٰ� �Ѵ�.
-- title: �޸���
+        - BFS Visited 의 위치는 항상 신경써야 더 메모리 효율적인 알고리즘 구성가능
+        - 근데, 그렇게 했는데도 안 됨!
+        - DFS로 바꿔봤는데도 안 됨
+        - 일단 알게된 거: BFS 는 DFS 보다 공간을 많이 차지할 확률이 높다 (하지만 그래프 모양에 따라 다르다.)
+        - C++17 부터 inline static const 로 클래스 내부에 스태틱 멤버를 초기화 할 수 있다고 한다.
+- title: 달리기
   id: 16930
-  site: ����
+  site: 백준
   rank: P3
   tags:
     - BFS
@@ -417,10 +417,10 @@
       state: False
       time: 120
       note: |
-        �� ���ݸ� �� �ϸ� �� �� ������, �� Ǯ����.!
-- title: �˰����� ���� - ���� ����1
+        아 조금만 더 하면 될 것 같은데, 안 풀린다.!
+- title: 알고리즘 수업 - 선택 정렬1
   id: 23881
-  site: ����
+  site: 백준
   rank: B1
   tags:
     - Sort
@@ -431,11 +431,11 @@
       state: True
       time: 60
       note: |
-        - ���� ������ �� �ϴ��� ���� �� �𸣰ڴ�. ���� �� �Ͱ� ���� ���� �� �������� ������ ��� �ٲ۴ٴ� �̹����� ����.
-        - iterator �����ϴ� ���
-- title: �˰����� ����-���� ����2
+        - 선택 정렬은 뭐 하는지 아직 잘 모르겠다. 정렬 된 것과 되지 않은 것 기준으로 나눠서 계속 바꾼다는 이미지만 있음.
+        - iterator 선언하는 방법
+- title: 알고리즘 수업-선택 정렬2
   id: 23882
-  site: ����
+  site: 백준
   rank: B1
   tags:
     - Sort
@@ -446,7 +446,7 @@
       state: True
       time: 19
       note: |
-        - 23881 �� ������ ����.
+        - 23881 번 문제와 동일.
 - title: 계단 오르기
   id: 2579
   site: 백준
@@ -466,13 +466,9 @@
     - date: 2024-01-26
       time: null
       state: False
-    - date: 2024-06-19
-      time: 27
-      state: True
-      note: 복습 필요
-- title: ����
+- title: 성곽
   id: 2234
-  site: ����
+  site: 백준
   rank: G3
   tags:
     - BFS
