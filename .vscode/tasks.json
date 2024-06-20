@@ -36,7 +36,10 @@
             "options": {
                 "cwd": "${fileDirname}"
             },
-            "group": "build",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
             "presentation": {
                 "echo": true,
                 "reveal": "always",

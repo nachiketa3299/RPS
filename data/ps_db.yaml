@@ -447,9 +447,9 @@
       time: 19
       note: |
         - 23881 �� ������ ����.
-- title: ��� ������
+- title: 계단 오르기
   id: 2579
-  site: ����
+  site: 백준
   rank: S3
   tags:
     - Dynamic Programming
@@ -466,6 +466,10 @@
     - date: 2024-01-26
       time: null
       state: False
+    - date: 2024-06-19
+      time: 27
+      state: True
+      note: 복습 필요
 - title: ����
   id: 2234
   site: ����
@@ -570,3 +574,42 @@
       state: True
       time: 29
       note: 무식하게 풀기
+- title: 알고리즘 수업 - 피보나치 수 1
+  id: 24416
+  site: 백준
+  tags: Dynamic Programming
+  records:
+    - date: 2024-06-20
+      state: True
+      time: 18
+      note: none
+- title: 신나는 함수 실행
+  id: 9184
+  site: 백준
+  tags: Dynamic Programming
+  records:
+    - date: 2024-06-19
+      state: False
+      time: 60
+      note: none
+    - date: 2024-06-20
+      state: True
+      time: 50
+      note: 꼭 다시 풀어보기
+- title: 꼬마 정민
+  id: 11382
+  site: 백준
+  tags: 입출력
+  records:
+    - date: 2024-06-20
+      state: True
+      time: 2
+- title: 다이얼
+  id: 5622
+  site: 백준
+  tags: 수학
+  records:
+    - date: 2024-06-20
+      state: True
+      time: 30
+      note: 문제를 똑바로 읽을 것
