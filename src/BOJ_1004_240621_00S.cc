@@ -36,9 +36,7 @@ struct psys_t {
 		auto dy = static_cast<float>(p.y - pivot.y);
 		return sqrt(dx * dx + dy * dy);
 	}
-
 };
-
 
 int main() {
 	int T; cin >> T; // testcases

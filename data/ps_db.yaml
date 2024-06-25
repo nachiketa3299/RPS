@@ -675,10 +675,34 @@
   site: 백준
   rank: S3
   tags: math
-  review_note: False
+  review_note: True
   records:
     - date: 2024-06-21
       state: True
       time: 43
       note: |
         처음에 트리 비슷하게 생각했는데 아니었음, 너무 어렵게 생각하지 말 것.
+- title: 쉬운 계단 수
+  id: 10844
+  site: 백준
+  rank: S1
+  tags: dynamic-programming
+  review_note: False
+  records:
+    - date: 2024-06-23
+      state: True
+      time: 22
+      note: |
+        dp 아직 어렵다
+- title: 촌수 계산
+  id: 2644
+  site: 백준
+  rank: S2
+  tags: [bfs, basic]
+  review_note: False
+  records:
+    - date: 2024-06-25
+      state: True
+      time: 22
+      note: |
+        간단한데, BFS 방문 시점 관련하여.
