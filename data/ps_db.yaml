@@ -178,7 +178,7 @@
   site: 백준
   tags:
     - two-pointer
-    - mathematics
+    - math
   records:
     - date: 2023-12-21
       state: True
@@ -462,7 +462,7 @@
   rank: S3
   tags:
     - dynamic-programming
-  review_note: False
+  review_note: True
   records:
     - date: 2022-08-22
       state: False
@@ -475,6 +475,11 @@
     - date: 2024-01-26
       time: null
       state: False
+    - date: 2024-06-19
+      time: 60
+      state: True
+      note: |
+        드디어 풀었다! 연속해서 밟으면 안된다는게 그렇게 어려운게 아니었다!
 - title: 성곽
   id: 2234
   site: 백준
@@ -620,7 +625,7 @@
   id: 11382
   site: 백준
   rank: B5
-  tags: 입출력
+  tags: io
   review_note: null
   records:
     - date: 2024-06-20
@@ -630,7 +635,7 @@
   id: 5622
   site: 백준
   rank: B2
-  tags: 수학
+  tags: math
   review_note: null
   records:
     - date: 2024-06-20
@@ -641,7 +646,7 @@
   id: 1316
   site: 백준
   rank: S5
-  tags: 문자열
+  tags: string
   review_note: null
   records:
     - date: 2024-06-20
@@ -652,7 +657,7 @@
   id: 25206
   site: 백준
   rank: S5
-  tags: mathematics
+  tags: math
   review_note: null
   records:
     - date: 2024-06-20
@@ -690,7 +695,7 @@
   review_note: False
   records:
     - date: 2024-06-23
-      state: True
+      state: False
       time: 22
       note: |
         dp 아직 어렵다
@@ -698,8 +703,8 @@
   id: 2644
   site: 백준
   rank: S2
-  tags: [bfs, basic]
-  review_note: False
+  tags: [bfs, shortest-path, basic]
+  review_note: True
   records:
     - date: 2024-06-25
       state: True
