@@ -69,3 +69,14 @@ class BFS {
 		return distance[ei];
 	}
 };
+
+template <class T>
+class DFS {
+
+};
+
+int main() {
+	vector<int> v(5); iota(v.begin(), v.end(), 10);
+	Graph<int> g;
+	return;
+}

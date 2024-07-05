@@ -85,7 +85,7 @@
     - priority-queue
     - dijkstra
     - connected-components
-  review_note: True
+  review_note: False
   records:
     - date: 2024-01-16
       state: True
@@ -95,6 +95,17 @@
       state: True
       time: 39
       note: 다익스트라 아는데 모르겠는 단계임 지금
+    - date: 2024-07-05
+      state: False
+      time: 35
+      note: |
+        아침에 기분 씹창나서 못 풂
+    - date: 2024-07-05
+      state: True
+      time: 30
+      note: |
+        10'000 개 정도는 그냥 세도 되나바
+        그리고 다익스트라를 한번 더 다시 정리했다.
 - title: 나이트의 이동
   id: 7562
   rank: S1
@@ -711,3 +722,19 @@
       time: 22
       note: |
         간단한데, BFS 방문 시점 관련하여.
+- title: 분수 찾기
+  id: 1193
+  site: 백준
+  rank: S5
+  tags: math
+  review_note: null
+  records:
+    - date: 2024-06-26
+      state: False
+      time: null
+      note: null
+    - date: 2024-07-05
+      state: False
+      time: 20
+      note: |
+        상태가 너무 안좋아서 어쩔 수 없음
