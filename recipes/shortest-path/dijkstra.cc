@@ -60,7 +60,7 @@ public:
 			}
 
 			for (auto const& [w, adj]: adj_list_[c]) {
-				auto const cdist = dists[c] + w; // candid distance
+				auto const cdist = dists[c] + w; // candid distances
 
 				if (cdist >= dists[adj]) {
 					continue;

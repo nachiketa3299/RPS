@@ -106,6 +106,10 @@
       note: |
         10'000 개 정도는 그냥 세도 되나바
         그리고 다익스트라를 한번 더 다시 정리했다.
+    - date: 2024-07-26
+      state: True
+      time: 38
+      note:
 - title: 나이트의 이동
   id: 7562
   rank: S1
@@ -738,3 +742,61 @@
       time: 20
       note: |
         상태가 너무 안좋아서 어쩔 수 없음
+- title: 파티
+  id: 1238
+  site: 백준
+  rank: G3
+  tags: [dijkstra, shortest-path]
+  review_note: False
+  records:
+    - date: 2024-07-06
+      state: True
+      time: 32
+      note: |
+        인덱스fy 할때에는 반드시 주의해야 한다.
+        그리고 역방향 그래프 그려서 두 번만에 구하는 방법이 있다는데?
+- title: 도로 검문
+  id: 2308
+  site: 백준
+  rank: G1
+  tags: [dijkstra, shortest-path]
+  review_note: null
+  records:
+    - date: 2024-07-06
+      state: True
+      time: 32
+      note: |
+        머임 이거 생각보다 쉽네
+- title: KCM Travel
+  id: 10217
+  site: 백준
+  rank: P4
+  tags: [dijkstra, dynamic-programming, state-bfs]
+  review_note: False
+  records:
+    - date: 2024-07-06
+      state: False
+      time: 32
+      note: |
+        풀수 있을 듯 말 듯
+- title: Two Sum
+  id: 00001
+  site: LeetCode
+  rank: Easy
+  tags: null
+  review_note: null
+  records: 
+    - date: 2024-07-23
+      state: True
+      time: 20
+      note: 첫 리트코드 문제
+- title: Add Two Numbers
+  id: 00002
+  site: LeetCode
+  rank: Medium
+  tags: [linked-list, big-number]
+  records:
+    - date: 2024-07-23
+      state: True
+      time: 30
+      note: 쉬우면 쉽고 어려우면 어렵고
