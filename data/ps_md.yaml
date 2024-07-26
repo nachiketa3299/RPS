@@ -4,3 +4,5 @@
   link_prefix: https://school.programmers.co.kr/learn/courses/30/lessons/
 - site_name: 알고스팟
   link_prefix: https://algospot.com/judge/problem/read/
+- site_name: LeetCode
+  link_prefix: https://leetcode.com/problems/
