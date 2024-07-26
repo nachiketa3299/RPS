@@ -800,3 +800,25 @@
       state: True
       time: 30
       note: 쉬우면 쉽고 어려우면 어렵고
+- title: Find the City With the Smallest Number of Neighbors at a Threshold Distance
+  id: 01334
+  rank: Medium
+  site: LeetCode
+  tags: [shortest-path, dijkstra]
+  records:
+    - date: 2024-07-26
+      state: True
+      time: 44
+      note: 15%, 음.
+- title: 타임머신
+  id: 11657
+  site: 백준
+  rank: G4
+  tags: [shortest-path, bellman-ford]
+  review_note: null
+  records:
+    - date: 2024-07-27
+      state: True
+      time: 19
+      note: 너무쉬운데
+
