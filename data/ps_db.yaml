@@ -85,7 +85,7 @@
     - priority-queue
     - dijkstra
     - connected-components
-  review_note: False
+  review_note: null
   records:
     - date: 2024-01-16
       state: True
