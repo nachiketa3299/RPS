@@ -821,4 +821,16 @@
       state: True
       time: 19
       note: 너무쉬운데
+- title: Valid Parentheses
+  id: 00020
+  site: LeetCode
+  rank: Easy
+  tags: [stack]
+  review_note: null
+  records:
+      - date: 2024-10-24
+        state: True
+        time: 17
+        note: 쉬운데 함정이 조금 있는 좋은 문제였음
+
 

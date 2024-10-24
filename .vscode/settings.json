@@ -64,7 +64,9 @@
         "typeinfo": "cpp",
         "variant": "cpp"
     },
-    "editor.defaultFormatter": null,
-    "editor.formatOnSave": false,
-    "editor.formatOnPaste": false
+    "editor.defaultFormatter": "EditorConfig.EditorConfig",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+		"editor.formatOnType": true,
+		"editor.detectIndentation": false
 }

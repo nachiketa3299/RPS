@@ -1,0 +1,54 @@
+root = true
+
+[*]
+charset = utf-8
+
+[*.{c++,cc,cpp,cxx,h,h++,hh,hpp,hxx,inl,ipp,tlh,tli}]
+
+indent_size =4 
+indent_style = tab
+insert_final_newline = true
+
+cpp_indent_braces = true
+
+cpp_indent_namespace_contents = false
+cpp_indent_braces = true
+cpp_indent_multi_line_relative_to = statement_begin
+
+cpp_new_line_before_open_brace_namespace = same_line
+cpp_new_line_before_open_brace_type = same_line
+cpp_new_line_before_open_brace_function = same_line
+cpp_new_line_before_open_brace_block = same_line
+cpp_new_line_before_open_brace_lambda = same_line
+
+cpp_new_line_close_brace_same_line_empty_type = true
+cpp_new_line_close_brace_same_line_empty_function = true
+
+cpp_new_line_before_catch = true
+cpp_new_line_before_else = true
+cpp_new_line_before_while_in_do_while = true
+
+cpp_space_before_function_open_parenthesis = remove
+cpp_space_within_parameter_list_parentheses = false
+cpp_space_between_empty_parameter_list_parenthesis = false
+cpp_space_after_keywords_in_control_flow_statements = true
+
+cpp_space_within_control_flow_statement_parentheses = false
+cpp_space_before_lambda_open_parenthesis = false
+cpp_space_within_cast_parentheses = false
+cpp_space_after_cast_close_parenthesis = false
+cpp_space_within_expression_parentheses =false
+
+# auto vec = vector<int>{ 0, 1, 2, 3 };
+cpp_space_before_initializer_list_open_brace = false
+cpp_space_within_initializer_list_braces = true
+
+cpp_space_around_assignment_operator = insert
+cpp_space_pointer_reference_alignment = left
+
+# false: class Foo: Bar {}
+cpp_space_before_inheritance_colon = false
+# false: Foo(): x(nullptr) {}
+cpp_space_before_constructor_colon = false
+
+cpp_space_remove_before_semicolon = true
