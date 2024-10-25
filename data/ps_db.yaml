@@ -832,5 +832,16 @@
         state: True
         time: 17
         note: 쉬운데 함정이 조금 있는 좋은 문제였음
+- title: Merge Two Sorted Lists
+  id: 00021
+  site: LeetCode
+  rank: Easy
+  tags: [linked-list]
+  review_note: True
+  records:
+      - date: 2024-10-25
+        state: False
+        time: 30
+        note: 언젠가 풀었던 것 같은데, 기록이 없음
 
 
