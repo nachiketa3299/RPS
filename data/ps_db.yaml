@@ -843,5 +843,16 @@
         state: False
         time: 30
         note: 언젠가 풀었던 것 같은데, 기록이 없음
+- title: Valid Palindrome
+  id: 00125
+  site: LeetCode
+  rank: Easy
+  tags: [palindrome, linked-list]
+  review_note: False
+  records:
+      - date: 2024-11-04
+        state: True
+        time: 28
+        note: 시간이 왜이렇게 오래 걸리지
 
 
